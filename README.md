@@ -261,7 +261,7 @@ make debug
 
 ## License
 
-[Specify your license here]
+(c) 2025 Michael J. Wolak - Not for public or private use. This is the sole property of the author, no permission granted to use this code for anyhing other than educational / reference purposes. 
 
 ## Credits
 
